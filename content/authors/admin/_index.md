@@ -20,6 +20,10 @@ interests:
 - Artificial Intelligence
 - Machine Learning
 - Deep Learning
+- Big Data and Data Science
+- Microservices
+- Cloud services, SaaS and Dockers
+
 
 # Education to show in About widget
 education:
