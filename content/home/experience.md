@@ -31,7 +31,10 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Full stack development
+        ● Developed RESTful APIs, using C# on .NET platform, that abide by the latest standard.
+        ● Developed responsive web UI using ExtJS.
+        ● Experienced with ORM such as NHibernate.
+        ● Developed Scanner functionality for mobile PoC of the enterprise product using Xamarin.
         
   - title: Graduate Teaching Assistant
     company: University of Texas at Arlington
@@ -39,7 +42,7 @@ experience:
     location: Arlington, Texas
     date_start: '2021-09-01'
     date_end: ''
-    description: TA for Theory of Computation CSE3315
+    description: TA for Theory of Computation CSE3315 (yet to start with my work)
 
 design:
   columns: '2'
