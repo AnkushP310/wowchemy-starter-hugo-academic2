@@ -23,6 +23,13 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- date_start: "2021-01-25"
+  organization: UT Arlington
+  title: Outstanding Graduate Student Award-2020 Computer Science at UT Arlington
+
+- date_start: "2021-01-01"
+  organization: BlueYonder Inc
+  title: Awarded SPOT award and INNOVATION award
 
 design:
   columns: '2' 
