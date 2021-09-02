@@ -25,7 +25,6 @@ experience:
   - title: Software Developer
     company: BlueYonder inc
     company_url: ''
-    company_logo: first-order-alt
     location: Hyderabad, India
     date_start: '2017-06-28'
     date_end: '2020-10-13'
@@ -37,7 +36,6 @@ experience:
   - title: Graduate Teaching Assistant
     company: University of Texas at Arlington
     company_url: ''
-    company_logo: first-order-alt
     location: Arlington, Texas
     date_start: '2021-09-01'
     date_end: ''
