@@ -29,12 +29,12 @@ experience:
     date_start: '2017-06-28'
     date_end: '2020-10-13'
     description: |2-
-        Responsibilities include:
+        "Responsibilities include:
         
-        ● Developed RESTful APIs, using C# on .NET platform, that abide by the latest standard.
-        ● Developed responsive web UI using ExtJS.
+        ● Developed RESTful APIs, using C# on .NET platform, that abide by the latest standard." + "\n"
+        "● Developed responsive web UI using ExtJS.
         ● Experienced with ORM such as NHibernate.
-        ● Developed Scanner functionality for mobile PoC of the enterprise product using Xamarin.
+        ● Developed Scanner functionality for mobile PoC of the enterprise product using Xamarin."
         
   - title: Graduate Teaching Assistant
     company: University of Texas at Arlington
