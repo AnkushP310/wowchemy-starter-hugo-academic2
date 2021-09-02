@@ -24,9 +24,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: BE in Chemical Engineering & M.Sc. in Physics
-      institution: BITS Pilani K. K. Birla, Goa Campus
-      year: 2012
+  - course: "BE in Chemical Engineering & M.Sc. in Physics"
+    institution: "BITS Pilani K. K. Birla, Goa Campus"
+    year: 2012
 
   - course: MS in Computer Science
     institution: University of Texas at Arlington
