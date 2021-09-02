@@ -27,7 +27,7 @@ item:
   organization: UT Arlington
   title: Outstanding Graduate Student Award-2020 Computer Science at UT Arlington
 
-- date_start: "2021-01-01"
+- date_start: "2020-01-01"
   organization: BlueYonder Inc
   title: Awarded SPOT award and INNOVATION award
 
