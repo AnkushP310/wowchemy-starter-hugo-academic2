@@ -23,10 +23,6 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- title: Neural Networks and Deep Learning
-- description: Formulated informed blockchain models, hypotheses, and use cases.
-  title: Blockchain Fundamentals
-- title: 'Object-Oriented Programming in R'
 
 design:
   columns: '2' 
