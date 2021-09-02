@@ -16,17 +16,17 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  name: Python
-  name: Java
-  name: C#
-  name: JavaScript
-  name: Matlab
-  name: .Net
-  name: Xamarin
-  name: nHibernate
-  name: Typescript
-  name: C/C++
-  name: SQL
+-  name: Python
+-  name: Java
+-  name: C#
+-  name: JavaScript
+-  name: Matlab
+-  name: .Net
+-  name: Xamarin
+-  name: nHibernate
+-  name: Typescript
+-  name: C/C++
+-  name: SQL
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
