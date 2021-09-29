@@ -7,8 +7,8 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Projects
-    url: '#projects'
+  - name: Data Mining Project
+    url: 'https://www.kaggle.com/ankp310/getting-started-with-titanic'
     weight: 30
   - name: Contact
     url: '#contact'
