@@ -11,7 +11,7 @@ main:
     url: 'https://www.kaggle.com/ankp310/getting-started-with-titanic'
     weight: 30
   - name: Blog
-    url: 'https://ankushpaul1001.wixsite.com/my-site-6/post/finding-ideas-for-your-next-podcast'
+    url: 'https://ankushpaul1001.wixsite.com/my-site-6'
     weight: 30
   - name: Contact
     url: '#contact'
