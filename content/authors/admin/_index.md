@@ -67,4 +67,4 @@ highlight_name: false
 
 Ankush Paul is a graduate student at The University of Texas at Arlington. His research interests include Artificial Intelligence, Machine Learning and Deep Learning. In the past he has worked as a Full-Stack Developer with three years of experience, building RESTful APIs on the .NET platform and responsive UI using ExtJS. Apart from .NET, he has worked on JAVA, Python, and Javascript frameworks.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Ankush_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
